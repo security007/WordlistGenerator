@@ -1,6 +1,4 @@
 # WordlistGenerator
-tool to create your custom wordlist 
-python wordGen.py
 
 security007@DESKTOP-BMNRBML:/mnt/c/Users/asus/Documents/ToolPython/python2$ python wordGen.py
 
